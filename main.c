@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-
-#include <stdio.h>
-
 void split_double(double d, int *int_part, double *frac_part);
 
 int main(void)
